@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @AlayeniX
+- 👀 I’m interested in programming and Webdev
+- 🌱 I’m currently learning CSS and Python
